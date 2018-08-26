@@ -1,0 +1,43 @@
+{
+  "name": "vd-boilerplate",
+  "version": "1.0.0",
+  "description": "webpack boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yincw/vd-boilerplate.git"
+  },
+  "keywords": [
+    "Webpack",
+    "Babel",
+    "React",
+    "Redux",
+    "Axios",
+    "Dva",
+    "Less",
+    "PostCSS",
+    "AntDesign",
+    "Mock.js",
+    "Styleguidist",
+    "Flow",
+    "ESLint",
+    "StyleLint",
+    "Jest",
+    "Enzyme"
+  ],
+  "author": "yincw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yincw/vd-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yincw/vd-boilerplate#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-test-renderer": "^16.4.2"
+  }
+}
