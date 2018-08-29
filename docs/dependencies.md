@@ -1,5 +1,7 @@
 # VD 项目样板
 
+Update time：2018-08-29
+
 VD 内置的 Webpack 项目样板相关的 NPM 依赖包描述
 
 > 目录
