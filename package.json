@@ -33,11 +33,5 @@
   "bugs": {
     "url": "https://github.com/yincw/vd-boilerplate/issues"
   },
-  "homepage": "https://github.com/yincw/vd-boilerplate#readme",
-  "dependencies": {
-    "prop-types": "^15.6.2",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-test-renderer": "^16.4.2"
-  }
+  "homepage": "https://github.com/yincw/vd-boilerplate#readme"
 }
